@@ -2,11 +2,11 @@ def second_challenge
   epic_tragedy = {
     :montague => {:name => "Lord Montague",
       :age => "53"
-      
+
       },
     :capulet => {:name => "Lady Montague",
       :age => "54"}
-    
+
     :hero => {:name => "Romeo",
       :age => "15"}
 
